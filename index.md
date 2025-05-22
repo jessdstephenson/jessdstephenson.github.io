@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 Hi, I’m Jess Stephenson — a M.S. Student in the Applied Statistics for Social Science Program at New York University. 
 
 My research interests sit at the intersection of social psychology, moral philosophy, linguisitics, and technology. I’m especially interested in how people interpret algorithmic decisions, what fairness and responsibility mean in automated systems, and how data practices and language reflect and reproduce social power.
