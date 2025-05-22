@@ -1,5 +1,3 @@
-# remote_theme: pages-themes/minimal@v0.2.0
-
 title: Jess Stephenson
 author: Jess Stephenson
 email: jess.stephenson@nyu.edu
@@ -7,8 +5,7 @@ baseurl: "" # Leave empty if deploying to the root of a domain
 url: "https://jessdstephenson.github.io"
 
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag # Add plugins as needed
 
-title: "Jessica Stephenson"
 logo: "/me.jpg"
 
