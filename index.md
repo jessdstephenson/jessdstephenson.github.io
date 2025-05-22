@@ -1,4 +1,7 @@
-Hi, I’m Jessica Stephenson — my research interests lie at the intersection of data, ethics, and human behavior. I’m especially interested in how people make sense of algorithmic decisions, how these systems shape lived experiences, and how they can be redesigned with justice in mind. With a background in psychology and cognitive science, I approach questions about fairness and accountability through both empirical and conceptual lenses, drawing on tools from statistics, moral philosophy, and critical theory.
+Hi, I’m Jess Stephenson — a M.S. Student in the Applied Statistics for Social Science Program at New York University. 
 
-I’m particularly curious about how beliefs about objectivity, agency, and moral responsibility influence public trust in algorithmic systems — and how these perceptions differ across social contexts.
+my research interests sit at the intersection of social psychology, moral philosophy, linguisitics, and technology. I’m especially interested in how people interpret algorithmic decisions, what fairness and responsibility mean in automated systems, and how data practices and language reflect and reproduce social power.
 
+By day, I coordinate multi-lab participant recruitment for BabyChildTeen@NYU, supporting developmental psychology labs run more efficient, accessible research. I also teach undergraduate statistics at CUNY’s School of Labor and Urban Studies, where I focus on building data literacy through the lens of social justice.
+
+I work primarily in R, and recent projects include investigating the role of pragmatics and generic language in children’s essentialist reasoning (with Marjorie Rhodes), theorizing about the limits of Bayesian models of inference, and analyzing how passive voice is used in news coverage of conflict to obscure agency.
