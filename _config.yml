@@ -1,7 +1,7 @@
 title: Jess Stephenson
 author: Jess Stephenson
 email: jess.stephenson@nyu.edu
-baseurl: "" # Leave empty if deploying to the root of a domain
+baseurl: "" # Ensure this is empty if deploying to the root of a domain
 url: "https://jessdstephenson.github.io"
 
 plugins:
